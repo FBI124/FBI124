@@ -16,8 +16,6 @@ I am a student of the 11th grade and I study at school, simultaneously studying 
 ![](https://github-contributor-stats.vercel.app/api?username=FBI124&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FBI124&icon=0&color=0)](https://visitcount.itsvg.in)
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
