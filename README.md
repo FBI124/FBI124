@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student of the 11th grade and I study at school, simultaneously studying such a profession as a web developer
+I am a student of the 11th grade and I study at school, simultaneously studying such a profession as a web developer.
 
 
 # 💻 Tech Stack:
