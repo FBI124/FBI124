@@ -37,8 +37,7 @@ src="https://img.shields.io/github/followers/FBI124?logo=github&style=for-the-ba
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fbi124&theme=solarized_dark)
 
 
-### **Quotes from great people**
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 
