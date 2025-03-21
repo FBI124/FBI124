@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web-developer
 -------------
 
-I am a student of the 11th grade and I study at school, simultaneously studying such a profession as a web developer.
+I am a student of SSUGT.
 
 * 🌍  I'm based in Novosibirsk, Russia
 * 🖥️  See my portfolio at [portfolio](http://github.com/FBI124/portfolio)
